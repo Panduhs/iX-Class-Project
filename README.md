@@ -19,7 +19,7 @@ This is the class project for iX Data Science and AI course
 * Convert travel_time into minutes form 00:00
 
 
-### Individual Variable Distribution
+### Quality Assurance
 
 - The data set initially had 51645 entries however only 6249 unqiue entries (we removed duplicates)
 - We made a new feature that aggregates the tickets bought per ride
@@ -51,7 +51,7 @@ This is the class project for iX Data Science and AI course
 
 
 
-### Relationships between Variables
+### Individual Variable Distribution
 
 
 - Overall there are most tickets bought from Kisii with a massive spike, then Rongo
@@ -62,3 +62,7 @@ This is the class project for iX Data Science and AI course
 - Most tickets are bought for friday, however, and dip for saturday, other than that there is little variation
 - When we look at average tickets sold for weekdays there is far less variation
 - There are bus tickets sold than shuttle tickets
+
+
+### Relationships between Variables
+- There is little meaningful correlation between variables in this data set
